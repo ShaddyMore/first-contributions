@@ -124,7 +124,7 @@ For example:
 
 ```
 git checkout -b add-alonzo-church
-```
+git checkout -b add branch-1
 
 (The name of the branch does not need to have the word _add_ in it, but it's a reasonable thing to include because the purpose of this branch is to add your name to a list.)
 
